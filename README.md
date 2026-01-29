@@ -122,4 +122,10 @@ npm run dev
 Runs on:
 http://localhost:5173
 ```
+## 💡 Assumptions & Decisions
 
+- Each user can only access their own todos
+- Authentication is handled via **JWT**
+- Passwords are securely hashed using **bcrypt**
+- UI is kept simple to focus on core functionality
+- No role-based access
