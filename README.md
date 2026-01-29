@@ -111,13 +111,15 @@ npm run dev
 
 Runs on:
 http://localhost:3000
+```
 
-Frontend
+### Frontend
+```bash
 cd frontend
 npm install
 npm run dev
 
 Runs on:
 http://localhost:5173
-
+```
 
