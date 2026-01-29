@@ -16,7 +16,7 @@ This project demonstrates:
 - Vite
 - JavaScript (ES6+)
 - Axios
-- CSS
+- Tailwind CSS
 
 ### Backend
 - Node.js
